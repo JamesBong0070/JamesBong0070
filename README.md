@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-## Discord ProfileID- 431503687630979072
+## Discord Profile- harrymcfogell
 
 <!--
 **JamesBong0070/JamesBong0070** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
