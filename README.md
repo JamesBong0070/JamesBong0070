@@ -5,7 +5,7 @@
 ## About Me
   I'm a beginner Unity Dev. Started programming with Lua in Roblox, then CPP, and now I'm working with C# in Unity.
   
--I'm currently working on completing my first project **JamesBong0070/Crashy-Plane** from start to finish.
+-I'm currently working on completing my first Unity project **JamesBong0070/Crashy-Plane** from start to finish.
 
 -I'm learning how to make Sprites, whipping up stuff of my own creation.
 
