@@ -3,13 +3,11 @@
 ## Discord Profile- harrymcfogell
 
 ## About Me
-  I'm a beginner Unity Dev. Started programming with Lua in Roblox, then CPP, and now I'm working with C# in Unity.
-  
--I'm currently working on completing my first Unity project **JamesBong0070/Crashy-Plane** from start to finish.
+  I'm a beginner Developer. Started developing with Lua in Roblox, then CPP, C# in Unity, and now I'm using the S&Box editor.
 
--I'm learning how to make Sprites, whipping up stuff of my own creation.
+-Experience with C++, C#, Luau, and Unity.
 
--I plan to implement my own animations later on.
+-I'm currently working on something using S&Box.
 
 -Just generally having fun creating!
 
